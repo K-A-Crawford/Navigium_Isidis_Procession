@@ -1,4 +1,4 @@
-# Navigium_Isidis_Procession
+# README
 An ABM model exploring the potential routes of the navigium Isidis procession at Ostia Antica
 
 The model and data presented here provide the information necessary to replicate the analyses in Crawford (in press). 
