@@ -5,7 +5,7 @@ The model and data presented here provide the information necessary to replicate
 
 Crawford, Katherine A. 
 
-Displaying Rituals: Simulating Potential Routes of the navigium Isidis Procession. **Journal of Urban Archaeology** (in press). 
+Displaying Rituals: Simulating Potential Routes of the navigium Isidis Procession. **Journal of Urban Archaeology** 6: 49–70 (2022). 
 
 # Contents
 -	Code
